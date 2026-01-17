@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Kirim OTP via Emailasumm.com</name>
+   <tag></tag>
+   <elementGuidId>7d57d98d-89e5-4d8c-8fa9-b81de4909630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:r7:']/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=listitem</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e1f4b81f-f23f-4587-941e-e590a3c3f62f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex cursor-pointer items-center justify-between rounded-lg border px-4 py-3 duration-300 hover:bg-gray-50 border-gray-200</value>
+      <webElementGuid>0367fbe5-e574-4427-a06a-da0001dcc3bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kirim OTP via Emailasu@mm.com</value>
+      <webElementGuid>85599515-5e04-455f-8ebc-9f95b6610ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:r7:&quot;)/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-6&quot;]/ul[@class=&quot;space-y-4&quot;]/li[@class=&quot;flex cursor-pointer items-center justify-between rounded-lg border px-4 py-3 duration-300 hover:bg-gray-50 border-gray-200&quot;]</value>
+      <webElementGuid>450f4666-2b75-4c64-8b7e-0e8bd5bdf4c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r7:']/div/div/ul/li</value>
+      <webElementGuid>a55479e3-f020-4212-9b5b-3eb0e6345cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello!'])[1]/following::li[1]</value>
+      <webElementGuid>94e0f873-fbd9-44cf-bffd-977816ae26b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::li[1]</value>
+      <webElementGuid>49a1d35d-bd74-44a5-be96-1a3f7fa80ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/preceding::li[1]</value>
+      <webElementGuid>eb7a2486-29a4-4115-b5f0-c9f2aab9b665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[2]/preceding::li[1]</value>
+      <webElementGuid>017b3ec1-c7e0-41c1-919f-8074f5b891e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/ul/li</value>
+      <webElementGuid>2ac91601-c556-4c9f-994c-a97e5957bbc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Kirim OTP via Emailasu@mm.com' or . = 'Kirim OTP via Emailasu@mm.com')]</value>
+      <webElementGuid>44955ead-81ff-4eb6-ba4c-7a0ac6b14246</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

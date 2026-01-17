@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Aktifkan_cy-search-product h-8 w-full_f19889</name>
+   <tag></tag>
+   <elementGuidId>f624c5d7-8e5f-47fa-b8b6-85aa89238a4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Cari&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d249467d-a6c4-4ba8-bae8-12ecaa7f8161</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cy-search-product h-8 w-full grow rounded-full bg-gray-200 px-3 py-2 pl-8 text-sm focus:border focus:border-primary focus:bg-white focus-visible:outline-none</value>
+      <webElementGuid>6121ed98-9640-449d-b111-d6af3dfd1525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari</value>
+      <webElementGuid>7057956f-c1d7-4ceb-bb4c-758adba64b1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_646807&quot;]/main[@class=&quot;relative h-full w-full&quot;]/header[@class=&quot;top-0 h-full  w-full duration-300 z-[99] sticky&quot;]/div[@class=&quot;navbar-header z-40 w-full backdrop-blur-lg  backdrop-saturate-200 duration-300 md:border-b bg-white/80&quot;]/div[@class=&quot;container w-full&quot;]/div[@class=&quot;flex w-full items-center justify-between py-3&quot;]/div[@class=&quot;flex w-full items-center space-x-4&quot;]/div[@class=&quot;relative w-full&quot;]/div[@class=&quot;relative flex w-full justify-end&quot;]/div[@class=&quot;hidden w-full md:block&quot;]/input[@class=&quot;cy-search-product h-8 w-full grow rounded-full bg-gray-200 px-3 py-2 pl-8 text-sm focus:border focus:border-primary focus:bg-white focus-visible:outline-none&quot;]</value>
+      <webElementGuid>1af1e95f-6cd9-4dd6-9796-f2194ccae112</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>65e9045a-f568-40a2-9f7a-3817ac87ed51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>e9beb207-1e58-4a28-a607-38f4d96db950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Cari']</value>
+      <webElementGuid>f2211c82-a119-4c85-be3f-bf6e5700c189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
